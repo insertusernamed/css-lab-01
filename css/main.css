@@ -1,0 +1,22 @@
+html {
+    background-color: #221336;
+}
+
+.wrapper {
+    background-color: #9569ce;
+    border-radius: 8px;
+    margin: 5px;
+    text-align: center;
+}
+
+.text {
+    color: #333;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+li:nth-child(odd) {
+    font-weight: bold;
+}
